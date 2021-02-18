@@ -85,8 +85,8 @@ def popUp():
 
 
 # main
-leMotDeDeb = recherche('https://fr.wikipedia.org/wiki/Caroline_du_Nord')
-leMotDeFin = recherche('https://fr.wikipedia.org/wiki/Atlanta')
+leMotDeDeb = recherche('https://fr.wikipedia.org/wiki/Special:Page_au_hasard')
+leMotDeFin = recherche('https://fr.wikipedia.org/wiki/Special:Page_au_hasard')
 #https://fr.wikipedia.org/wiki/Special:Page_au_hasard
 
 fenetre = Tk()
